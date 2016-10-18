@@ -1,0 +1,19 @@
+{
+  "name": "@blazepress/lib-sys",
+  "version": "1.0.0",
+  "description": "A core library used by blazepress modules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blazepress/lib-sys.git"
+  },
+  "author": "William Oney <flcoder+blazepress@gmail.com> (https://github.com/blazepress)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blazepress/lib-sys/issues"
+  },
+  "homepage": "https://github.com/blazepress/lib-sys#readme"
+}
